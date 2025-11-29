@@ -9,7 +9,7 @@ Systems engineer specializing in HPC, distributed systems, and low-level perform
 **HPC & Performance**
 - [HPL_GPU](https://github.com/afasulo/HPL_GPU) - H100 GPU benchmark analysis
 - [gnu-compiler-optimizations](https://github.com/afasulo/gnu-compiler-optimizations) - GCC optimization level impact study
-- [numerical-computing](https://github.com/afasulo/numerical-computing) - Custom C implementations for scientific computing
+- [numerical-computing](https://github.com/afasulo/numerical-computing) - Numerical computing analysis
 
 **Distributed Systems & Crypto**
 - [Distributed-Systems-Crypto-Simulation](https://github.com/afasulo/Distributed-Systems-Crypto-Simulation) - Agent-based modeling of MEV mitigation protocols
