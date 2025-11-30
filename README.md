@@ -38,7 +38,7 @@ I have 8+ years of consistent experience in system administration, network engin
 ### Systems Programming & OS Internals
 | Project | Description | Tools |
 |---------|-------------|-------|
-| **[operating-systems-code](https://github.com/afasulo/operating-systems-code)** | CPU scheduling, memory virtualization, concurrency primitives (locks, semaphores, condition variables). Producer-consumer, dining philosophers. | C++, pthreads |
+| **[operating-systems-code](https://github.com/afasulo/operating-systems-code)** | Kernel security modules (process monitor, syscall integrity checker), CPU scheduling, memory virtualization, concurrency primitives. | C, Kernel APIs, pthreads |
 | **[XGhostClip](https://github.com/afasulo/XGhostClip)** | X11-style primary selection for macOS using Core Graphics event taps and Accessibility APIs. | Swift, macOS APIs |
 | **[binary-bomb-analysis](https://github.com/afasulo/binary-bomb-analysis)** | Reverse engineering exercises: disassembly, stack frame analysis, control flow reconstruction. | x86-64 Assembly, GDB, IDA |
 
