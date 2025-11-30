@@ -12,15 +12,10 @@ Currently completing B.S. in Computer Science & Mathematics (Dec 2025) while exp
 ## 🔬 Professional Experience
 
 **Sandia National Laboratories** — Cyber Systems R&D (2016–2021)  
-- Engineered [Low Resolution Indexing](https://www.osti.gov/biblio/1807137), a high-performance search system enabling sub-millisecond queries on petabyte-scale datasets for the Incident Response team
-- Developed kernel-level modules in C and Assembly for the [HADES platform](https://www.sandia.gov/research/research-foundations/cyber-security/) (R&D 100 Award winner)
-- Automated provisioning of large-scale virtualized HPC experimentation environments using **Ansible** and **Terraform**, reducing setup time by 95%
-- Administered computing labs running cyber experiments on Linux clusters
 
-**Trinity Intel** — Founder (2021–Present)  
-- Provide IT security consulting to SMBs: network architecture, vulnerability assessments, EDR deployment, automation
+**Trinity Intel** - (2021–Present)
 
-📄 **DOE Publications:**  
+📄 **Publications:**  
 - [Low Resolution Indexing for Sub-Millisecond Searches on Petabyte-Scale Datasets](https://www.osti.gov/biblio/1807137)  
 - [Thunderbird Cup Automation](https://www.osti.gov/servlets/purl/1570320)
 
