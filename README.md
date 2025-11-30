@@ -3,7 +3,7 @@
 ![Matrix Animation](matrix-code-animation-gif-free-animated-background-716.gif)
 
 Systems engineer specializing in HPC, distributed systems, and low-level performance optimization with an eye towards security, automation, and resilience. 
-I have 6+ years of consistent experience in system administration, network engineering, and low level programming. My background in low-level systems has built a strong intuition for troubleshooting complex architectures and engineering robust solutions. Built production tools at Sandia National Laboratories that reduced petabyte-scale data analysis from weeks to milliseconds and automated HPC infrastructure deployment. Currently exploring algorithmic theory, GPU computing, numerical computing, cryptographic protocols and many other things that grab my curiosity.
+I have 8+ years of consistent experience in system administration, network engineering, and low level programming. My background in low-level systems has built a strong intuition for troubleshooting complex architectures and engineering robust solutions. Built production tools at Sandia National Laboratories that reduced petabyte-scale data analysis from weeks to milliseconds and automated HPC infrastructure deployment. Currently exploring algorithmic theory, GPU computing, numerical computing, cryptographic protocols and many other things that grab my curiosity.
 
 
 ---
