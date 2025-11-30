@@ -3,9 +3,8 @@
 ![Matrix Animation](matrix-code-animation-gif-free-animated-background-716.gif)
 
 Systems engineer specializing in HPC, distributed systems, and low-level performance optimization with an eye towards security, automation, and resilience. 
-I have 6+ years of consistent experience in system administration, network engineering, and low level programming. My background in low-level systems has built a strong intuition for troubleshooting complex architectures and engineering robust solutions. Built production tools at Sandia National Laboratories that reduced petabyte-scale data analysis from weeks to milliseconds and automated HPC infrastructure deployment. Currently exploring algorithmic theory, GPU computing, cryptographic protocols and many other things that grab my curiosity.
+I have 6+ years of consistent experience in system administration, network engineering, and low level programming. My background in low-level systems has built a strong intuition for troubleshooting complex architectures and engineering robust solutions. Built production tools at Sandia National Laboratories that reduced petabyte-scale data analysis from weeks to milliseconds and automated HPC infrastructure deployment. Currently exploring algorithmic theory, GPU computing, numerical computing, cryptographic protocols and many other things that grab my curiosity.
 
-Currently completing B.S. in Computer Science & Mathematics (Dec 2025) while exploring GPU computing, Numerical computing, distributed systems, and cryptographic protocols.
 
 ---
 
@@ -15,13 +14,13 @@ Currently completing B.S. in Computer Science & Mathematics (Dec 2025) while exp
 
 **Trinity Intel** - (2021–Present)
 
-📄 **Publications:**  
+ **Publications:**  
 - [Low Resolution Indexing for Sub-Millisecond Searches on Petabyte-Scale Datasets](https://www.osti.gov/biblio/1807137)  
 - [Thunderbird Cup Automation](https://www.osti.gov/servlets/purl/1570320)
 
 ---
 
-## 📂 Featured Projects
+## Featured Public Projects
 
 ### HPC, Profiling & Performance Engineering
 | Project | Description | Tools |
