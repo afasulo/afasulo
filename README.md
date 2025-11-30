@@ -8,7 +8,7 @@ I have 8+ years of consistent experience in system administration, network engin
 
 ---
 
-## 🔬 Professional Experience
+## Professional Experience
 
 **Sandia National Laboratories** — Cyber Systems R&D (2016–2021)  
 
