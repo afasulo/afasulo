@@ -25,7 +25,7 @@ I have 8+ years of consistent experience in system administration, network engin
 ### HPC, Profiling & Performance Engineering
 | Project | Description | Tools |
 |---------|-------------|-------|
-| **[HPL_GPU](https://github.com/afasulo/HPL_GPU)** | Performance analysis of High-Performance Linpack on NVIDIA H100 GPUs. Achieved 73.1 TFLOPS (61% peak) with detailed kernel profiling and scaling analysis. | **Nsight Systems**, GDB, Slurm |
+| **[HPL_GPU](https://github.com/afasulo/HPL_GPU)** | Performance analysis of High-Performance Linpack on NVIDIA H100 GPUs. Achieved 73.1 TFLOPS (61% peak) with detailed kernel profiling and scaling analysis. | Nsight Systems, GDB, Slurm |
 | **[gnu-compiler-optimizations](https://github.com/afasulo/gnu-compiler-optimizations)** | Study of GCC optimization levels (-O0 through -O3) on binary efficiency. Build system configurations with Make/CMake. | C, GCC, Make, CMake |
 | **[numerical-computing](https://github.com/afasulo/numerical-computing)** | Numerical methods: conjugate gradient, iterative solvers, eigenvalue computation. Convergence analysis and stability bounds. | C, MATLAB |
 
