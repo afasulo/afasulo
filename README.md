@@ -35,12 +35,18 @@ I have 8+ years of consistent experience in system administration, network engin
 | **[Distributed-Systems-Crypto-Simulation](https://github.com/afasulo/Distributed-Systems-Crypto-Simulation)** | Agent-based simulation of DeFi liquidation protocols with MEV mitigation analysis. N=1000 Monte Carlo runs with statistical validation. | Python, Mesa, NumPy |
 | **[Advanced-Algorithms](https://github.com/afasulo/Advanced-Algorithms)** | Graduate algorithmic theory: [Chernoff bounds for Nakamoto consensus](https://github.com/afasulo/Advanced-Algorithms/blob/main/Nakamoto_Consensus_Tail_Bounds.pdf) (orphan block probability analysis), FLP impossibility, zero-knowledge proofs, FFT multiplication. | Probability Theory, Cryptography |
 
-### Systems Programming & OS Internals
+### Security Research & Reverse Engineering
 | Project | Description | Tools |
 |---------|-------------|-------|
-| **[operating-systems-code](https://github.com/afasulo/operating-systems-code)** | Kernel security modules (process monitor, syscall integrity checker), CPU scheduling, memory virtualization, concurrency primitives. | C, Kernel APIs, pthreads |
-| **[XGhostClip](https://github.com/afasulo/XGhostClip)** | X11-style primary selection for macOS using Core Graphics event taps and Accessibility APIs. | Swift, macOS APIs |
+| **[nsa-codebreakers-2018](https://github.com/afasulo/nsa_codebreakers)** | **Complete NSA Codebreaker Challenge writeup** — Ransomware analysis, protocol RE, TOTP key extraction, Ethereum smart contract exploitation, race condition attacks. All 8 tasks solved. | Wireshark, IDA, Web3.py, Solidity |
 | **[binary-bomb-analysis](https://github.com/afasulo/binary-bomb-analysis)** | Reverse engineering exercises: disassembly, stack frame analysis, control flow reconstruction. | x86-64 Assembly, GDB, IDA |
+| **[operating-systems-code](https://github.com/afasulo/operating-systems-code)** | Kernel security modules (process monitor, syscall integrity checker), CPU scheduling, memory virtualization, concurrency primitives. | C, Kernel APIs, pthreads |
+
+### Systems Programming
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **[XGhostClip](https://github.com/afasulo/XGhostClip)** | X11-style primary selection for macOS using Core Graphics event taps and Accessibility APIs. | Swift, macOS APIs |
+| **[dot-files](https://github.com/afasulo/dot-files)** | Automated dev environment setup with **Ansible**. Security toolkit, threat hunting tools, shell/vim/gdb configs. | Ansible, Bash, Python |
 
 ---
 
