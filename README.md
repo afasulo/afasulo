@@ -25,8 +25,8 @@ I have 8+ years of consistent experience in system administration, network engin
 ### HPC, Profiling & Performance Engineering
 | Project | Description | Tools |
 |---------|-------------|-------|
-| **[HPL_GPU](https://github.com/afasulo/HPL_GPU)** | Performance analysis of High-Performance Linpack on **NVIDIA H100 GPUs**. Achieved 73.1 TFLOPS (61% peak) with detailed kernel profiling and scaling analysis. | **Nsight Systems**, GDB, Slurm |
-| **[gnu-compiler-optimizations](https://github.com/afasulo/gnu-compiler-optimizations)** | Study of GCC optimization levels (-O0 through -O3) on binary efficiency. Build system configurations with **Make/CMake**. | C, GCC, Make, CMake |
+| **[HPL_GPU](https://github.com/afasulo/HPL_GPU)** | Performance analysis of High-Performance Linpack on NVIDIA H100 GPUs. Achieved 73.1 TFLOPS (61% peak) with detailed kernel profiling and scaling analysis. | **Nsight Systems**, GDB, Slurm |
+| **[gnu-compiler-optimizations](https://github.com/afasulo/gnu-compiler-optimizations)** | Study of GCC optimization levels (-O0 through -O3) on binary efficiency. Build system configurations with Make/CMake. | C, GCC, Make, CMake |
 | **[numerical-computing](https://github.com/afasulo/numerical-computing)** | Numerical methods: conjugate gradient, iterative solvers, eigenvalue computation. Convergence analysis and stability bounds. | C, MATLAB |
 
 ### Distributed Systems & Parallel Computing
@@ -46,7 +46,7 @@ I have 8+ years of consistent experience in system administration, network engin
 | Project | Description | Tools |
 |---------|-------------|-------|
 | **[XGhostClip](https://github.com/afasulo/XGhostClip)** | X11-style primary selection for macOS using Core Graphics event taps and Accessibility APIs. | Swift, macOS APIs |
-| **[dot-files](https://github.com/afasulo/dot-files)** | Automated dev environment setup with **Ansible**. Security toolkit, threat hunting tools, shell/vim/gdb configs. | Ansible, Bash, Python |
+| **[dot-files](https://github.com/afasulo/dot-files)** | Automated dev environment setup wit Ansible. Security toolkit, threat hunting tools, shell/vim/gdb configs. | Ansible, Bash, Python |
 
 ---
 
