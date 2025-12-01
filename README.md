@@ -38,7 +38,7 @@ I have 8+ years of consistent experience in system administration, network engin
 ### Security Research & Reverse Engineering
 | Project | Description | Tools |
 |---------|-------------|-------|
-| **[nsa-codebreakers-2018](https://github.com/afasulo/nsa_codebreakers)** | **Complete NSA Codebreaker Challenge writeup** — Ransomware analysis, protocol RE, TOTP key extraction, Ethereum smart contract exploitation, race condition attacks. All 8 tasks solved. | Wireshark, IDA, Web3.py, Solidity |
+| **[nsa-codebreakers-18](https://github.com/afasulo/nsa_codebreakers)** | Complete NSA Codebreaker Challenge writeup — Ransomware analysis, protocol RE, TOTP key extraction, Ethereum smart contract exploitation, race condition attacks. All 8 tasks solved. | Wireshark, IDA, Web3.py, Solidity |
 | **[binary-bomb-analysis](https://github.com/afasulo/binary-bomb-analysis)** | Reverse engineering exercises: disassembly, stack frame analysis, control flow reconstruction. | x86-64 Assembly, GDB, IDA |
 | **[operating-systems-code](https://github.com/afasulo/operating-systems-code)** | Kernel security modules (process monitor, syscall integrity checker), CPU scheduling, memory virtualization, concurrency primitives. | C, Kernel APIs, pthreads |
 
