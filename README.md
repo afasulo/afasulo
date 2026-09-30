@@ -12,7 +12,7 @@ I have 8+ years of consistent experience in system administration, network engin
 
 **Trinity Intel** - (2021-2026)
 
-** Los Alamos National Labs** - Engineer (2026 - Present)
+**Los Alamos National Labs** - Engineer (2026 - Present)
 
  **Publications:**  
 - [Low Resolution Indexing for Sub-Millisecond Searches on Petabyte-Scale Datasets](https://www.osti.gov/biblio/1807137)  
